@@ -1,0 +1,6 @@
+{
+  "name": "Smart Google Calendar Scheduler",
+  "description": "תזמון חכם והוספת אירועים ליומן Google Calendar מתוך טקסט חופשי, עם תאריך, שעה, תיאור והגדרת תזכורות מראש.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
